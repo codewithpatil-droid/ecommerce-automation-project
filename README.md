@@ -152,14 +152,13 @@ Top Country:           United Kingdom
 
 ## Configuration Reference
 
-| Variable | Default |             | Description              |
+| Variable | Default | Description |
 |----------|---------|-------------|
-| `DB_NAME` | `Your database name` | PostgreSQL database name |
-| `DB_USER` | `postgres`           | Database username        |
-| `DB_PASSWORD` | `your password`  | Database password        |
-| `DB_HOST` | `localhost`          | Database host            |
-| `DB_PORT` | `5433`               | Database port            |
-
+| `DB_NAME` | `ecomdb` | PostgreSQL database name |
+| `DB_USER` | `postgres` | Database username |
+| `DB_PASSWORD` | `your_password_here` | Database password |
+| `DB_HOST` | `localhost` | Database host |
+| `DB_PORT` | `5433` | Database port |
 ---
 
 ## Dataset
