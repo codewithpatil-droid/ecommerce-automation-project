@@ -1,0 +1,31 @@
+# Environment variables - never commit this
+.env
+
+# Export outputs - auto generated
+exports/
+
+# Logs - auto generated
+etl_log.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
