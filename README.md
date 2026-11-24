@@ -1,6 +1,6 @@
 # E-Commerce Analytics Pipeline & Dashboard
 
-A production-ready end-to-end data project — from raw data to a live Power BI dashboard. Built with Python, PostgreSQL, and Power BI.
+An end-to-end data project — from raw data to a live Power BI dashboard. Built with Python, PostgreSQL, and Power BI.
 
 ![Dashboard Preview](assets/dashboard.png)
 
